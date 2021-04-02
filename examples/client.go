@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/centrifugal/gocent"
+	"github.com/rbaderts/gocent"
 )
 
 func main() {
